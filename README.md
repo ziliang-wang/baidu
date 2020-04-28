@@ -11,3 +11,4 @@
 ###### c，file_path()的部份，使用正则替换函数re.sub()，将0.jpg中的0，替换成序号，zfill(8)为填充函数，不满8位数的部分，都填充为0
 ##### 主要处理的部份-每一个图片都是0.jpg，必须重命名！
 ![img4](https://github.com/ziliang-wang/baidu/blob/master/images/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20200428152534.png)
+##### 4，Spider代码
