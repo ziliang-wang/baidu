@@ -7,3 +7,4 @@
 ##### 3，ImagesPipeline代码
 ![img3](https://github.com/ziliang-wang/baidu/blob/master/images/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20200428144711.png)
 ##### 主要处理的部份-每一个图片都是0.jpg，必须重命名！
+![img4](https://github.com/ziliang-wang/baidu/blob/master/images/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20200428152534.png)
