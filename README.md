@@ -12,3 +12,5 @@
 ##### 主要处理的部份-每一个图片都是0.jpg，必须重命名！
 ![img4](https://github.com/ziliang-wang/baidu/blob/master/images/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20200428152534.png)
 ##### 4，Spider代码
+![img5](https://github.com/ziliang-wang/baidu/blob/master/images/%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_20200428155744.png)
+###### 此次抓取了120张美女图，若要抓取150张，需改成151
